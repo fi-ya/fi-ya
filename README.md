@@ -4,7 +4,7 @@
 - ✨  My name (صفية) is pronounced **Sah-fi-yah**.
 - 😄  Pronouns: **she/her**
 - 🇬🇧  Location: **London** 
-- 🔭  I graduated from **Founders & Coders Full Stack Web Development Bootcamp** in June **2021**.
+- 🔭  I graduated from **[Founders & Coders](https://www.foundersandcoders.com/) Full Stack Web Development Bootcamp** in June **[2021](https://github.com/fac21)**.
 - 🌱  I’m currently learning **react.js & ruby**.
 - ⚡ Fun fact: I am a qualified **Optometrist** circa 2010. 
 
