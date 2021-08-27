@@ -18,15 +18,14 @@
 <p><a href="https://www.buymeacoffee.com/fi-ya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fi-ya" /></a></p>
 <br><br>
  
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fi-ya&show_icons=true&locale=en" alt="fi-ya" /></p>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&" alt="fi-ya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fi-ya&show_icons=true&locale=en" alt="fi-ya" /></p>
+ 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&theme=dark" alt="fi-ya" /></p>
+<!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&" alt="fi-ya" /></p> -->
+
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=fi-ya&label=Profile%20views&color=0e75b6&style=plastic" alt="fi-ya" /> </p>
  
  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&theme=dark" alt="fi-ya" /></p>
-
-
 <!--
 **fi-ya/fi-ya** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
