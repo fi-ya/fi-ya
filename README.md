@@ -2,9 +2,7 @@
 ![3](https://user-images.githubusercontent.com/69358550/131169047-0e425e5e-8455-4ac8-88bf-78ce9d7a3f27.png)
 <!-- ![Technology Quotation LinkedIn Banner (2)](https://user-images.githubusercontent.com/69358550/131167297-78a63362-5962-4fd7-b3e3-723e4fd2c329.png) -->
 <!-- <h2 align="center">Hi 👋🏽, I'm Safia 👩🏽‍💻 </h2> -->
-
----
-
+<h1></h1>
 <h3 align="center">A passionate full stack frontend focused javascript developer from London, UK.</h3>
 
 - ✨  My name (صفية) is pronounced **Sah-fi-yah**.
