@@ -41,9 +41,7 @@
   </td>
  </tr>
 </table>  
-
-***
-
+<h1></h1>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fi-ya&show_icons=true&locale=en&layout=compact" alt="fi-ya" /><img width="360" src="https://github-readme-stats.vercel.app/api?username=fi-ya&show_icons=true&locale=en" alt="fi-ya" />
 <!--  <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&theme=dark" alt="fi-ya" /> -->
 </p>
@@ -57,7 +55,8 @@
 ![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=fi-ya.fi-ya) [![Repos Badge](https://badges.pufler.dev/repos/fi-ya)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/fi-ya)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/fi-ya)](https://badges.pufler.dev)
 
 </div>
-
+<h1></h1>
+ 
 ![10](https://user-images.githubusercontent.com/69358550/131174320-ac783dd6-3d6f-434f-81a6-7dca25df0397.png)
 
 <!--
