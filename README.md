@@ -22,12 +22,25 @@
 
 ***
 
-<p align="center" style="margin: 1rem">&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=fi-ya&show_icons=true&locale=en" alt="fi-ya" /><img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&theme=dark" alt="fi-ya" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fi-ya&show_icons=true&locale=en&layout=compact" alt="fi-ya" /><img width="360" src="https://github-readme-stats.vercel.app/api?username=fi-ya&show_icons=true&locale=en" alt="fi-ya" />
+<!--  <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&theme=dark" alt="fi-ya" /> -->
+</p>
 
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&" alt="fi-ya" /></p> -->
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=fi-ya&label=Profile%20views&color=0e75b6&style=plastic" alt="fi-ya" /> </p>
+---
 
+<div align="center">
+ 
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+</div>
+
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=fi-ya&label=Profile%20views&color=0e75b6&style=plastic" alt="fi-ya" /> </p>
+[![Visits Badge](https://badges.pufler.dev/visits/fi-ya/git-badges)](https://github.com/fi-ya)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jamdelion.jamdelion) [![Repos Badge](https://badges.pufler.dev/repos/jamdelion)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/jamdelion)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/jamdelion)](https://badges.pufler.dev)
 
 
 <!--
