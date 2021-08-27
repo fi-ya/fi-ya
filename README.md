@@ -18,7 +18,7 @@
 <p><a href="https://www.buymeacoffee.com/fi-ya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fi-ya" /></a></p>
 <br><br>
 <br><br>
-<p align="center">&nbsp;<img width="400" src="https://github-readme-stats.vercel.app/api?username=fi-ya&show_icons=true&locale=en" alt="fi-ya" /><img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&theme=dark" alt="fi-ya" /></p>
+<p align="center">&nbsp;<img width="400" src="https://github-readme-stats.vercel.app/api?username=fi-ya&show_icons=true&locale=en" alt="fi-ya" /><img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&theme=dark" alt="fi-ya" /></p>
 
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&" alt="fi-ya" /></p> -->
 
