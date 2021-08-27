@@ -8,6 +8,12 @@
 - 🌱  I’m currently learning **react.js & ruby**.
 - ⚡ Fun fact: I am a qualified **Optometrist** circa 2010. 
 
+<div align="center">
+ 
+ ![Jokes Card](https://readme-jokes.vercel.app/api) 
+ 
+</div>
+
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safia-ali/)
@@ -28,20 +34,13 @@
 
 <!--  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fi-ya&" alt="fi-ya" /></p> -->
 
----
+<!--  <p align="center"> <img src="https://komarev.com/ghpvc/?username=fi-ya&label=Profile%20views&color=0e75b6&style=plastic" alt="fi-ya" /> </p> -->
 
 <div align="center">
  
- ![Jokes Card](https://readme-jokes.vercel.app/api)
- 
+![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=fi-ya.fi-ya) [![Repos Badge](https://badges.pufler.dev/repos/fi-ya)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/fi-ya)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/fi-ya)](https://badges.pufler.dev)
+
 </div>
-
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=fi-ya&label=Profile%20views&color=0e75b6&style=plastic" alt="fi-ya" /> </p>
-[![Visits Badge](https://badges.pufler.dev/visits/fi-ya/git-badges)](https://github.com/fi-ya)
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jamdelion.jamdelion) [![Repos Badge](https://badges.pufler.dev/repos/jamdelion)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/jamdelion)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/jamdelion)](https://badges.pufler.dev)
-
 
 <!--
 **fi-ya/fi-ya** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
