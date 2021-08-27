@@ -57,20 +57,9 @@
 ![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=fi-ya.fi-ya) [![Repos Badge](https://badges.pufler.dev/repos/fi-ya)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/fi-ya)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/fi-ya)](https://badges.pufler.dev)
 
 </div>
-
-Photo by <a href="https://unsplash.com/@benkolde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Kolde</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+ 
 <!--
 **fi-ya/fi-ya** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- ✨  I'm Safia (Arabic: صفية, pronounced: Sah-fi-yah).
-- 😄  Pronouns: she/her
-- 🇬🇧  Location: London 
-- 🔭  I graduated from Founders & Coders Full Stack Web Development Bootcamp in June 2021.
-- 🌱  I’m currently learning react.js & ruby.
-- ⚡ Fun fact: I am a qualified Optometrist circa 2010. 
-
-#### Skills
 
 Here are some ideas to get you started:
 
