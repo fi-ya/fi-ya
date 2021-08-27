@@ -1,3 +1,7 @@
+<p align="center"><img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=993&q=80" alt="img" width="25%" /> </p>
+
+
+
 <h2 align="center">Hi 👋🏽, I'm Safia 👩🏽‍💻 </h2>
 <h3 align="center">A passionate full stack frontend focused javascript developer from London, UK.</h3>
 
@@ -53,6 +57,8 @@
 
 </div>
 
+Photo by <a href="https://unsplash.com/@benkolde?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ben Kolde</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 <!--
 **fi-ya/fi-ya** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
