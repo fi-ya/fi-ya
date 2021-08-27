@@ -26,6 +26,8 @@
 
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=fi-ya&label=Profile%20views&color=0e75b6&style=plastic" alt="fi-ya" /> </p>
 
+[![Codewars](https://www.codewars.com/users/Safia8/badges/micro)]
+
 <!--
 **fi-ya/fi-ya** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
