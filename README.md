@@ -1,5 +1,6 @@
-<p align="center"><img src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=993&q=80" alt="img" width="25%" /> </p>
-
+![Clean Work Place LinkedIn Banner](https://user-images.githubusercontent.com/69358550/131166313-e2350fa9-0202-41a9-a2b3-dc8e170e5722.png)
+![Technology Quotation LinkedIn Banner](https://user-images.githubusercontent.com/69358550/131166812-89bb25ae-e2d9-46d6-a3e8-01dfcc945106.png)
+![Technology Quotation LinkedIn Banner (1)](https://user-images.githubusercontent.com/69358550/131166938-f921157c-ebc9-4974-ae33-2d97d8214c68.png)
 
 
 <h2 align="center">Hi 👋🏽, I'm Safia 👩🏽‍💻 </h2>
