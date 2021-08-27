@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Safia.</h2>
+<h2 align="center">Hi 👋🏽, I'm Safia 👩🏽‍💻 </h2>
 <h3 align="center">A passionate full stack frontend focused javascript developer from London, UK.</h3>
 
 - ✨  My name (صفية) is pronounced **Sah-fi-yah**.
