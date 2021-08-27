@@ -1,7 +1,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
 
+- ✨  I'm Safia (Arabic: صفية, pronounced: Sah-fi-yah).
+- 😄  Pronouns: she/her
+- 🔭  I graduated from Founders & Coders Full Stack Web Development Bootcamp in June 2021.
+- 🌱  I’m currently learning react.js & ruby.
+
+
+ <a href="https://www.linkedin.com/in/safia-ali/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+ 
 <!--
-**fi-ya/fi-ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fi-ya/fi-ya** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
