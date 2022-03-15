@@ -6,7 +6,7 @@
 <h1></h1>
 <h3 align="center">A passionate full stack frontend focused javascript developer from London, UK.</h3>
 
-- ✨  My name (صفية) is pronounced **Sah-fi-yah**.
+- ✨  My name (صفية) is pronounced **Sa-fi-yah**.
 - 😄  Pronouns: **she/her**
 - 🇬🇧  Location: **London** 
 - 🎓  Graduated from **[Founders & Coders](https://www.foundersandcoders.com/) Full Stack Web Development Bootcamp** in June **[2021](https://github.com/fac21)**.
