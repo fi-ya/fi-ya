@@ -10,7 +10,7 @@
 - 😄  Pronouns: **she/her**
 - 🇬🇧  Location: **London** 
 - 🎓  Graduated from **[Founders & Coders](https://www.foundersandcoders.com/) Full Stack Web Development Bootcamp** in June **[2021](https://github.com/fac21)**.
-- 🌱  I’m currently learning **react.js & ruby**.
+- 🌱  I’m currently learning **react.js, ruby, docker**.
 - ⚡ Fun fact: I am a qualified **Optometrist** circa 2010. 
 <div align="center"> <h3 align="center">Joke of the Day</h3>
  
