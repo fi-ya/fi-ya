@@ -1,17 +1,5 @@
-![9](https://user-images.githubusercontent.com/69358550/131171738-6bd8f003-58b7-4069-9412-0f93e7e2331c.png)
-<!-- ![Clean Work Place LinkedIn Banner](https://user-images.githubusercontent.com/69358550/131166313-e2350fa9-0202-41a9-a2b3-dc8e170e5722.png) -->
-<!-- ![3](https://user-images.githubusercontent.com/69358550/131169047-0e425e5e-8455-4ac8-88bf-78ce9d7a3f27.png) -->
-<!-- ![Technology Quotation LinkedIn Banner (2)](https://user-images.githubusercontent.com/69358550/131167297-78a63362-5962-4fd7-b3e3-723e4fd2c329.png) -->
-<!-- <h2 align="center">Hi 👋🏽, I'm Safia 👩🏽‍💻 </h2> -->
-<h1></h1>
-<h3 align="center">A passionate full stack frontend focused javascript developer from London, UK.</h3>
-
-- ✨  My name (صفية) is pronounced **Sa-fi-yah**.
-- 😄  Pronouns: **she/her**
-- 🇬🇧  Location: **London** 
-- 🎓  Graduated from **[Founders & Coders](https://www.foundersandcoders.com/) Full Stack Web Development Bootcamp** in June **[2021](https://github.com/fac21)**.
-- 🌱  I’m currently learning **react.js, ruby, docker**.
-- ⚡ Fun fact: I am a qualified **Optometrist** circa 2010. 
+![Clean Work Place LinkedIn Banner](https://user-images.githubusercontent.com/69358550/131166313-e2350fa9-0202-41a9-a2b3-dc8e170e5722.png) 
+<h2 align="center">Hi 👋🏽, 👩🏽‍💻 </h2> 
 <div align="center"> <h3 align="center">Joke of the Day</h3>
  
  ![Jokes Card](https://readme-jokes.vercel.app/api) 
